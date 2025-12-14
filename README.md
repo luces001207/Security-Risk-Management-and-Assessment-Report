@@ -115,3 +115,10 @@ It demonstrates that I am prepared for roles such as:
 -GRC / Risk Analyst
 -Security Analyst
 -Incident Response Analyst
+
+🔒 Anonymization & Disclaimer
+
+Disclaimer:
+All organizations, system architectures, asset values, employee counts, locations, and operational details presented in this project are entirely fictional and used solely for educational and portfolio demonstration purposes.
+
+Any resemblance to real organizations, entities, or individuals is purely coincidental. No real patient data, operational systems, or proprietary information were used.
