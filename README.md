@@ -1,7 +1,7 @@
 📘 What I Learned from This Project
 This project significantly deepened my understanding of enterprise security risk management as a decision-making discipline, not just a technical exercise. I learned how cybersecurity controls must be justified, prioritized, and sequenced based on measurable business risk rather than intuition or tool availability.
 
-1. Risk ≠ Vulnerability ≠ Threat
+1. Risk ≠ Vulnerability ≠ Threat       
 One of the most important takeaways was learning to clearly distinguish between:  
 - Assets (what has value)  
 - Threats (who or what can cause harm)  
@@ -9,7 +9,7 @@ One of the most important takeaways was learning to clearly distinguish between:
 - Risk (the expected loss when a threat exploits a vulnerability)    
 - By explicitly pairing threats and vulnerabilities and assigning probability values, I moved beyond qualitative “high/medium/low” thinking to quantitative risk modeling in dollar terms.  
 
-2. Security Is About Trade-offs, Not Absolutes
+2. Security Is About Trade-offs, Not Absolutes         
 I learned that eliminating all risk is impossible and impractical. Instead, effective risk management focuses on:
 - Reducing likelihood (prevention)
 - Reducing impact (response/resilience)
@@ -18,8 +18,8 @@ I learned that eliminating all risk is impossible and impractical. Instead, effe
 - This reinforced that:
 “The best security strategy is the one that reduces the most risk per dollar spent.”
 
-3. Frameworks Enable Structure, Not Checklists
-Through hands-on application, I learned how frameworks are meant to be analytical tools, not compliance checklists.
+3. Frameworks Enable Structure, Not Checklists         
+Through hands-on application, I learned how frameworks are meant to be analytical tools, not compliance checklists.        
 I gained experience mapping controls across:
 - NIST SP 800-53
 - FIPS 199 system categorization
@@ -30,7 +30,7 @@ I gained experience mapping controls across:
 - Avoid redundant controls
 - Explain why a control exists, not just that it exists
 
-4. Quantifying Risk Changes Security Conversations
+4. Quantifying Risk Changes Security Conversations          
 By calculating:
 - Asset value ($)
 - Threat exploitation probability (%)
@@ -42,7 +42,7 @@ By calculating:
 - Regulatory exposure
 - This project showed me that security teams gain influence when they speak in financial terms.
 
-5. Prevention and Response Must Be Balanced
+5. Prevention and Response Must Be Balanced          
 I learned that prevention alone is fragile, especially in healthcare and government environments where availability is mission-critical.
 Through comparing:
 - Prevention Strategy
@@ -53,8 +53,8 @@ Through comparing:
 - How redundancy and recovery reduce catastrophic losses
 - Why layered defense must include people, process, and technology
 
-🧠 Demonstrated Understanding of Risk Management
-This project demonstrates my ability to:
+🧠 Demonstrated Understanding of Risk Management       
+This project demonstrates my ability to:     
 - Perform end-to-end security risk assessments
 - Apply quantitative risk calculations
 - Align controls to threat likelihood and asset impact
